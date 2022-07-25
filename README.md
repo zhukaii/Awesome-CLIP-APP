@@ -18,10 +18,11 @@ This is a repository for organizing articles related to CLIP application. Most p
 
 ## 2. Application
 
-> #### 1) *"Incremental Few-Shot Object Detection", CVPR 2020.* [[paper](https://arxiv.org/pdf/2003.04668.pdf)][[code](https://github.com/leokarlin/LaSO)]
-> #### 2) *"iFS-RCNN: An Incremental Few-shot Instance Segmenter", CVPR 2022.* [[paper](https://arxiv.org/pdf/2205.15562.pdf)][[code](https://github.com/ducminhkhoi/iFS-RCNN)]
-> #### 3) *"Incremental-DETR: Incremental Few-Shot Object Detection via Self-Supervised Learning", arxiv.* [[paper](https://arxiv.org/pdf/2205.04042.pdf)][[code](https://github.com/ducminhkhoi/iFS-RCNN)]
-> #### 4) *"Sylph: A Hypernetwork Framework for Incremental Few-shot Object Detection", CVPR 2022.* [[paper](https://arxiv.org/pdf/2203.13903.pdf)][[code](https://github.com/ducminhkhoi/iFS-RCNN)]
+> #### 1) *"Exploiting Unlabeled Data with Vision and Language Models for Object Detection", ECCV 2022.* [[paper](https://arxiv.org/pdf/2207.08954.pdf)][[code](https://github.com/xiaofeng94/VL-PLM)]
+> #### 2) *"Simple but Effective: CLIP Embeddings for Embodied AI", CVPR 2022.* [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Khandelwal_Simple_but_Effective_CLIP_Embeddings_for_Embodied_AI_CVPR_2022_paper.pdf)][[code](https://github.com/allenai/embodied-clip)]
+> #### 3) *"OPTIMAL REPRESENTATIONS FOR COVARIATE SHIFT", ICLR 2022.* [[paper](https://openreview.net/pdf?id=Rf58LPCwJj0)][[code](https://github.com/ryoungj/optdom)]
+> #### 4) *"Tip-Adapter: Training-free Adaption of CLIP for Few-shot Classification", ECCV 2022.* [[paper](https://arxiv.org/pdf/2207.09519.pdf)][[code](https://github.com/gaopengcuhk/tip-adapter)]
+> #### 5) *"Image Segmentation Using Text and Image Prompts", CVPR 2022.* [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Luddecke_Image_Segmentation_Using_Text_and_Image_Prompts_CVPR_2022_paper.pdf)][[code](https://github.com/timojl/clipseg)]
 
 
 ## Search keyword
