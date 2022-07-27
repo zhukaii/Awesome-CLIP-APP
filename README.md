@@ -24,6 +24,7 @@ This is a repository for organizing articles related to CLIP application. Most p
 > #### 4) *"Tip-Adapter: Training-free Adaption of CLIP for Few-shot Classification", ECCV 2022.* [[paper](https://arxiv.org/pdf/2207.09519.pdf)][[code](https://github.com/gaopengcuhk/tip-adapter)]
 > #### 5) *"Image Segmentation Using Text and Image Prompts", CVPR 2022.* [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Luddecke_Image_Segmentation_Using_Text_and_Image_Prompts_CVPR_2022_paper.pdf)][[code](https://github.com/timojl/clipseg)]
 > #### 6) *"Exploring CLIP for Assessing the Look and Feel of Images", ECCV 2022.* [[paper](https://arxiv.org/pdf/2207.12396.pdf)]
+> #### 7) *"S-Prompts Learning with Pre-trained Transformers: An Occam’s Razor for Domain Incremental Learning", Arxiv.* [[paper](https://arxiv.org/pdf/2207.12819.pdf)]
 
 
 ## Search keyword
