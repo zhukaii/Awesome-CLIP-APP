@@ -27,6 +27,8 @@ This is a repository for organizing articles related to CLIP application. Most p
 > #### 7) *"S-Prompts Learning with Pre-trained Transformers: An Occam’s Razor for Domain Incremental Learning", Arxiv.* [[paper](https://arxiv.org/pdf/2207.12819.pdf)]
 > #### 8) *"Expanding Language-Image Pretrained Models for General Video Recognition", ECCV 2022 oral.* [[paper](https://arxiv.org/pdf/2208.02816.pdf)][[code](https://github.com/microsoft/VideoX/tree/master/X-CLIP)]
 > #### 9) *"Fine-Grained Semantically Aligned Vision-Language Pre-Training", Arxiv.* [[paper](https://arxiv.org/pdf/2208.02515.pdf)]
+> #### 10) *"Incremental Prototype Prompt-tuning with Pre-trained Representation for Class Incremental Learning", Arxiv.* [[paper](https://arxiv.org/pdf/2204.03410v4.pdf)]
+> #### 11) *"CONTINUAL LEARNING USING PSEUDO-REPLAY VIA LATENT SPACE SAMPLING", Arxiv.* [[paper](https://openreview.net/pdf?id=nMo44IjBHX5)]
 
 
 ## Search keyword
