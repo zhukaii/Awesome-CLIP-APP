@@ -29,6 +29,7 @@ This is a repository for organizing articles related to CLIP application. Most p
 > #### 9) *"Fine-Grained Semantically Aligned Vision-Language Pre-Training", Arxiv.* [[paper](https://arxiv.org/pdf/2208.02515.pdf)]
 > #### 10) *"Incremental Prototype Prompt-tuning with Pre-trained Representation for Class Incremental Learning", Arxiv.* [[paper](https://arxiv.org/pdf/2204.03410v4.pdf)]
 > #### 11) *"CONTINUAL LEARNING USING PSEUDO-REPLAY VIA LATENT SPACE SAMPLING", Arxiv.* [[paper](https://openreview.net/pdf?id=nMo44IjBHX5)]
+> #### 12) *"LANGUAGE-DRIVEN SEMANTIC SEGMENTATION", ICLR 2022.* [[paper](https://arxiv.org/pdf/2201.03546.pdf)]
 
 
 ## Search keyword
